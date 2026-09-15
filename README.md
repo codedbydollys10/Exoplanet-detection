@@ -484,6 +484,9 @@ The main long-term goal is to improve sensitivity to **shallow transit signals n
 
 ## 📜 License
 
+---
+
+
 This project is intended for educational, research, and competition purposes.
 
 If this repository is reused or extended, please provide appropriate attribution to the original project and contributors.
